@@ -1,3 +1,18 @@
 .logo{
   width: 180px;
 }
+.main-banner .header-text h3 {
+  position: relative;
+  z-index: 2;
+  margin-top: 20px;
+  font-size: 40px;
+  color: #111111;
+  font-weight: 900;
+  line-height: 74px;
+  margin-bottom: 40px;
+}
+
+.main-banner .header-text h3 em {
+  font-style: normal;
+  color: #dc8cdb;
+}
